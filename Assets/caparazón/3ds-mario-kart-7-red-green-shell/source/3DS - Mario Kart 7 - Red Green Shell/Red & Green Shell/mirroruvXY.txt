@@ -1,0 +1,4 @@
+[blender 2.79]
+1. Click on your model/mesh
+2. Click on the Texture tab (Checkerboard icon)
+3. Scroll down to image mapping and check Mirror X and Y 
